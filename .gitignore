@@ -17,3 +17,5 @@
 kafka_reader
 *.log
 *.txt
+*.toml
+.vscode/
